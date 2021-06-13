@@ -21,7 +21,7 @@ scikit-learn
 
 # Author 
 * Laukit Mandal
-My Linkedin Prodile :- [Laukit Mandal](www.linkedin.com/in/laukit-mandal-a750a520a)
+My Linkedin Prodile :- [Laukit Mandal](https://www.linkedin.com/in/laukit-mandal-a750a520a/)
 
 # 🙏Acknowledgments
 * Special Thanks to The Sparks Foundation for this Wonderful Internship Experience and Inspiration to do more.
